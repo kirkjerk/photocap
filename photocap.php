@@ -6,7 +6,8 @@
 <!--
 	Runnable via 
 	  php -S localhost:8000
-	or similar
+	or similar, then see
+	  http://localhost:8000/photocap.php
 -->
 <style>
 img, textarea {
